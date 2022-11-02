@@ -1,0 +1,22 @@
+.odd-number {
+    background-color: lightcoral;
+    font-family:Verdana, "Dejavu Sans", sans-serif;
+}
+
+#el2 {
+    color: blue;
+    padding: 40px;
+    border: 20px solid purple;
+    font-size: 36px;
+    box-sizing: border-box;
+}
+
+.odd3 {
+    font-size: 24px;
+}
+
+#el4 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
